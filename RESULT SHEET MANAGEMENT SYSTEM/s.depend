@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628328114 source:c:\users\gihan madusanka\desktop\css\s\main.cpp
+	<iostream>
+	<iomanip>
+	<conio.h>
+
